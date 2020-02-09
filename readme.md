@@ -37,7 +37,8 @@ Question 7 :Which cast featured in most movies?
 
 There are 1 notebooks available here to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells & comments were used to assist in walking through the thought process for individual steps.
 
-tmdb-movies.csv               - The file contains all the data that is necessary for the 
+tmdb-movies.csv               - The file contains all the data that is necessary for the analysis
+link to blog post: The provided link takes you to the blog that I have created for the analysis in medium platform.
 
 
 ## Results<a name="results"></a>
